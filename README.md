@@ -29,7 +29,9 @@ THEN I am again presented with current and future conditions for that city
 
 # Technologies used
 HTML
+
 CSS
+
 Javascript
 
 # Functionality screenschots
