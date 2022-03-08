@@ -38,8 +38,12 @@ Javascript
 
 
 # Acknowledgements
+W3 Schools
 
+MDN
 
+Google
 
+Peer assistance
 
 # GitHub Repository

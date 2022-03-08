@@ -30,3 +30,4 @@ function getWeatherData(location) {
             alert("Unable to connect to Open Weather");
         });
 };
+
