@@ -35,8 +35,11 @@ CSS
 Javascript
 
 # Functionality screenschots
+![WK-6-1](https://user-images.githubusercontent.com/90293855/157151172-0fdc4065-2544-4aa6-97c3-6a03c8bdbd6f.JPG)
 
 
+
+![WK-6-2](https://user-images.githubusercontent.com/90293855/157151128-dcc95e6a-6ec2-480c-9fbc-a9bafa14468b.JPG)
 
 
 # Acknowledgements
